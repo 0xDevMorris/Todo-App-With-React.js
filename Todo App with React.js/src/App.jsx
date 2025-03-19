@@ -1,9 +1,9 @@
-import Background from "./background";
+import TodoApp from "./TodoApp";
 
 function App() {
   return (
     <>
-      <Background />
+      <TodoApp />
     
     </>
   );
